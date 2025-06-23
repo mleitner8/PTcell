@@ -5,6 +5,7 @@ https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00585-5?_returnURL=http
 # PTcell
 ## Description
 A model of mouse primary motor cortex (M1) pyramdial tract project (PT) corticospinal cell
+full model: https://github.com/suny-downstate-medical-center/M1_NetPyNE_CellReports_2023
 
 Developed using NetPyNE (www.neurosimlab.org/netpyne)
 
